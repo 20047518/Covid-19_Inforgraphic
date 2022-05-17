@@ -1,0 +1,94 @@
+.section {
+    text-align: center;
+}
+
+.navbar {
+    top: 0;
+    position: fixed;
+    width: 100%;
+    padding-left: 1%;
+}
+
+.bi {
+    color: #ff6384;
+    font-size: 100px;
+}
+
+.display {
+    color: black;
+}
+
+.dataTables_length label,
+.dataTables_filter label,
+.dataTables_filter input,
+.dataTables_info label {
+    color: white;
+}
+
+.dot {
+    background: #ff6384;
+    border-radius: 50%;
+    height: 15px;
+    position: absolute;
+    width: 15px;
+}
+
+.dot1 {
+    top: 55%;
+    left: 85%;
+}
+
+.dot2 {
+    top: 50%;
+    left: 67%;
+}
+
+.dot3 {
+    top: 61%;
+    left: 75%;
+}
+
+.dot4 {
+    top: 42.5%;
+    left: 67%;
+}
+
+.dot5 {
+    top: 56%;
+    left: 70%;
+}
+
+.dot6 {
+    top: 60%;
+    left: 80%;
+}
+
+.dot7 {
+    top: 45%;
+    left: 80%;
+}
+
+.dot8 {
+    top: 46%;
+    left: 64%;
+}
+
+.dot9 {
+    top: 62.5%;
+    left: 82.5%;
+}
+
+.dot10 {
+    top: 70%;
+    left: 77.5%;
+}
+
+.dot11 {
+    top: 47.5%;
+    left: 87.5%;
+}
+
+.dot12 {
+    top: 52.5%;
+    left: 62.5%;
+}
